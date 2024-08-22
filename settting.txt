@@ -1,0 +1,13 @@
+RUN:0
+SEED:                      -1
+MOMENTO INICIAL:            10
+MOMENTO FINAL:             1000
+NUMEROS DE MUONES:       100
+ALTURA:                    0
+ZENITAL INCIAL:           0
+ZENITAL FINAL:            90
+AZIMUTAL INICIAL:         0
+AZIMUTAL FINAL:           360
+MODELO:Guan
+ARGUMENTOS:None
+RUTA SALIDA:Tesis/
